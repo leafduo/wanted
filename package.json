@@ -10,5 +10,8 @@
     "passport": "~0.1.15",
     "jade": "*",
     "stylus": "*"
+  },
+  "devDependencies": {
+      "nodemon": "*"
   }
 }
